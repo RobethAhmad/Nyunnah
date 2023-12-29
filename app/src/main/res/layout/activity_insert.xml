@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/etJudul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Judul" />
+
+    <EditText
+        android:id="@+id/etDoa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Doa" />
+
+    <EditText
+        android:id="@+id/etArtiDoa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Arti Doa" />
+
+    <EditText
+        android:id="@+id/etNiat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Niat" />
+
+    <EditText
+        android:id="@+id/etNiatLatin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Niat (Latin)" />
+
+    <EditText
+        android:id="@+id/etKategori"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Kategori" />
+
+    <EditText
+        android:id="@+id/etTatacara"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tata Cara" />
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="160dp"
+        android:text="Submit" />
+
+</LinearLayout>

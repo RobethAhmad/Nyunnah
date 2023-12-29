@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "795831630435",
+    "project_id": "loginfirebase-fdcca",
+    "storage_bucket": "loginfirebase-fdcca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795831630435:android:4482ee73951afcff9e5656",
+        "android_client_info": {
+          "package_name": "com.robeth.nyunnah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795831630435-006judu5h881p2ae2b5hpccd9rcdln6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robeth.nyunnah",
+            "certificate_hash": "4584f1c3519cc4cd65477ae9a75254a819a96225"
+          }
+        },
+        {
+          "client_id": "795831630435-j2v82h9nn1ada37dsmv566b739p6gn4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_nwFWISN66UTcEWb927S_oGhEykoLnMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795831630435-j2v82h9nn1ada37dsmv566b739p6gn4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
